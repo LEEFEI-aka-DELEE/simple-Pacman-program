@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1514105591 source:c:\users\lee\desktop\40647015s\source\input.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1514533125 source:c:\users\lee\desktop\40647015s\source\leftover.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"map.h"
+	"input.h"
+	<iostream>
+	<thread>
+	<windows.h>
+
+1514458351 c:\users\lee\desktop\40647015s\source\map.h
+
+1514105292 c:\users\lee\desktop\40647015s\source\input.h
+
+1525087334 source:c:\users\lee\desktop\40647015s\source\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"input.h"
+	"map.h"
+	"maingame.h"
+
+1513923806 c:\users\lee\desktop\40647015s\source\maingame.h
+
+1514458351 source:c:\users\lee\desktop\40647015s\source\map.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"input.h"
+
+1525089288 source:c:\users\lee\desktop\40647015s\source\maingame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"map.h"
+	"input.h"
+	<iostream>
+	<thread>
+	<windows.h>
+
+1514105591 source:c:\users\lee\desktop\pac-man\source\input.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1514533125 source:c:\users\lee\desktop\pac-man\source\leftover.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"map.h"
+	"input.h"
+	<iostream>
+	<thread>
+	<windows.h>
+
+1514458351 c:\users\lee\desktop\pac-man\source\map.h
+
+1514105292 c:\users\lee\desktop\pac-man\source\input.h
+
+1529333156 source:c:\users\lee\desktop\pac-man\source\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"input.h"
+	"map.h"
+	"maingame.h"
+
+1513923806 c:\users\lee\desktop\pac-man\source\maingame.h
+
+1514458351 source:c:\users\lee\desktop\pac-man\source\map.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"input.h"
+
+1529332866 source:c:\users\lee\desktop\pac-man\source\maingame.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"map.h"
+	"input.h"
+	"leader_boared.h"
+	<iostream>
+	<thread>
+	<windows.h>
+
+1529216943 source:c:\users\lee\desktop\pac-man\source\leader_boared.cpp
+	"leader_boared.h"
+
+1529331560 c:\users\lee\desktop\pac-man\source\leader_boared.h
+	<stdio.h>
+	<stdlib.h>
+
